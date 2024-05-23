@@ -2,7 +2,7 @@
 
 This is a clone of the popular mobile game Toon Blast. The game is built using Unity and C#. A puzzle game where the player has to match 2 or more blocks of the same color to clear them from the board. The game has multiple levels The player has to complete the objectives of each level to progress to the next level.
 
-This project was built for a case study and is not intended for commercial use.
+This project is for a case study and is not intended for commercial use.
 
 ## How to Run
 
